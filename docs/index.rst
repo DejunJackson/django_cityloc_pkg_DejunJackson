@@ -10,8 +10,8 @@ Welcome to django_cityloc_pkg's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-.. automodule:: django_cityloc_pkg
-   :members: DejunJackson
+.. automodule:: django_cityloc_pkg_DejunJackson
+   :members: 
 
 Indices and tables
 ==================
